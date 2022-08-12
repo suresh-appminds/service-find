@@ -42,10 +42,16 @@ As a user:
     - list page for admin (Authindation not required)
 
 ## Tech Requirements
-
+Front End 
 - React
 - Tests: Jest + react-testing-library
 - Code Linter
 - Use of functional components
 - Typescript is a plus
 - CSSinJS is a plus: styled-components, styled-system, ...
+
+Back End
+- Node Js
+- Code Linter
+- Tests: Jest
+- Typescript is a plus
